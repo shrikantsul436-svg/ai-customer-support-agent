@@ -1,0 +1,11 @@
+[
+  {
+    "id": "REF001",
+    "orderId": "ORD1009",
+    "customerId": "CUS009",
+    "amount": 12999,
+    "reason": "Defective product",
+    "status": "COMPLETED",
+    "createdAt": "2026-09-12"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "CUS001",
+    "name": "Rahul Sharma",
+    "email": "rahul.sharma@example.com",
+    "phone": "+91 9876500001"
+  },
+  {
+    "id": "CUS002",
+    "name": "Priya Patil",
+    "email": "priya.patil@example.com",
+    "phone": "+91 9876500002"
+  },
+  {
+    "id": "CUS003",
+    "name": "Amit Joshi",
+    "email": "amit.joshi@example.com",
+    "phone": "+91 9876500003"
+  },
+  {
+    "id": "CUS004",
+    "name": "Sneha Kulkarni",
+    "email": "sneha.kulkarni@example.com",
+    "phone": "+91 9876500004"
+  },
+  {
+    "id": "CUS005",
+    "name": "Aditya Deshmukh",
+    "email": "aditya.deshmukh@example.com",
+    "phone": "+91 9876500005"
+  },
+  {
+    "id": "CUS006",
+    "name": "Neha Shah",
+    "email": "neha.shah@example.com",
+    "phone": "+91 9876500006"
+  },
+  {
+    "id": "CUS007",
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@example.com",
+    "phone": "+91 9876500007"
+  },
+  {
+    "id": "CUS008",
+    "name": "Kavya Nair",
+    "email": "kavya.nair@example.com",
+    "phone": "+91 9876500008"
+  },
+  {
+    "id": "CUS009",
+    "name": "Vikram Singh",
+    "email": "vikram.singh@example.com",
+    "phone": "+91 9876500009"
+  },
+  {
+    "id": "CUS010",
+    "name": "Ananya Rao",
+    "email": "ananya.rao@example.com",
+    "phone": "+91 9876500010"
+  },
+  {
+    "id": "CUS011",
+    "name": "Karan Gupta",
+    "email": "karan.gupta@example.com",
+    "phone": "+91 9876500011"
+  },
+  {
+    "id": "CUS012",
+    "name": "Meera Joshi",
+    "email": "meera.joshi@example.com",
+    "phone": "+91 9876500012"
+  },
+  {
+    "id": "CUS013",
+    "name": "Sahil More",
+    "email": "sahil.more@example.com",
+    "phone": "+91 9876500013"
+  },
+  {
+    "id": "CUS014",
+    "name": "Pooja Desai",
+    "email": "pooja.desai@example.com",
+    "phone": "+91 9876500014"
+  },
+  {
+    "id": "CUS015",
+    "name": "Arjun Kapoor",
+    "email": "arjun.kapoor@example.com",
+    "phone": "+91 9876500015"
+  }
+]

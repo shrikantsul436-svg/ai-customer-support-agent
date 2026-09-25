@@ -1,0 +1,113 @@
+[
+  {
+    "id": "ORD1001",
+    "customerId": "CUS001",
+    "productName": "Sony WH-1000XM5 Headphones",
+    "category": "Electronics",
+    "price": 29999,
+    "orderDate": "2026-09-01",
+    "deliveryDate": "2026-09-10",
+    "status": "DELIVERED",
+    "refundStatus": "NONE"
+  },
+  {
+    "id": "ORD1002",
+    "customerId": "CUS002",
+    "productName": "Apple Magic Keyboard",
+    "category": "Electronics",
+    "price": 10999,
+    "orderDate": "2026-09-02",
+    "deliveryDate": "2026-09-08",
+    "status": "DELIVERED",
+    "refundStatus": "NONE"
+  },
+  {
+    "id": "ORD1003",
+    "customerId": "CUS003",
+    "productName": "Samsung 4K Monitor",
+    "category": "Electronics",
+    "price": 24999,
+    "orderDate": "2026-07-01",
+    "deliveryDate": "2026-07-08",
+    "status": "DELIVERED",
+    "refundStatus": "NONE"
+  },
+  {
+    "id": "ORD1004",
+    "customerId": "CUS004",
+    "productName": "Nike Running Shoes",
+    "category": "Fashion",
+    "price": 7999,
+    "orderDate": "2026-09-05",
+    "deliveryDate": "2026-09-12",
+    "status": "DELIVERED",
+    "refundStatus": "NONE"
+  },
+  {
+    "id": "ORD1005",
+    "customerId": "CUS005",
+    "productName": "Apple AirPods Pro",
+    "category": "Electronics",
+    "price": 24999,
+    "orderDate": "2026-09-03",
+    "deliveryDate": "2026-09-09",
+    "status": "DELIVERED",
+    "refundStatus": "NONE"
+  },
+  {
+    "id": "ORD1006",
+    "customerId": "CUS006",
+    "productName": "Dell Wireless Keyboard",
+    "category": "Electronics",
+    "price": 3499,
+    "orderDate": "2026-09-04",
+    "deliveryDate": "2026-09-11",
+    "status": "DELIVERED",
+    "refundStatus": "NONE"
+  },
+  {
+    "id": "ORD1007",
+    "customerId": "CUS007",
+    "productName": "Levi's Denim Jacket",
+    "category": "Fashion",
+    "price": 4999,
+    "orderDate": "2026-09-01",
+    "deliveryDate": "2026-09-07",
+    "status": "DELIVERED",
+    "refundStatus": "NONE"
+  },
+  {
+    "id": "ORD1008",
+    "customerId": "CUS008",
+    "productName": "Digital Photography Course",
+    "category": "Digital",
+    "price": 5999,
+    "orderDate": "2026-09-10",
+    "deliveryDate": "2026-09-10",
+    "status": "DELIVERED",
+    "refundStatus": "NONE",
+    "downloaded": true
+  },
+  {
+    "id": "ORD1009",
+    "customerId": "CUS009",
+    "productName": "Bose SoundLink Speaker",
+    "category": "Electronics",
+    "price": 12999,
+    "orderDate": "2026-09-01",
+    "deliveryDate": "2026-09-06",
+    "status": "DELIVERED",
+    "refundStatus": "COMPLETED"
+  },
+  {
+    "id": "ORD1010",
+    "customerId": "CUS010",
+    "productName": "Dyson Air Purifier",
+    "category": "Home",
+    "price": 39999,
+    "orderDate": "2026-09-02",
+    "deliveryDate": "2026-09-09",
+    "status": "DELIVERED",
+    "refundStatus": "NONE"
+  }
+]
