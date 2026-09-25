@@ -48,33 +48,7 @@ LangChain	AI/tool integration
 Groq	LLM
 Zod	Validation
 Vercel	Deployment
-📂 Project Structure
-ai-customer-support-agent/
-│
-├── app/
-│   ├── api/chat/
-│   ├── admin/
-│   ├── chat/
-│   └── page.tsx
-│
-├── src/
-│   └── agent/
-│       ├── graph.ts
-│       └── tools.ts
-│
-├── data/
-│   ├── customers.json
-│   ├── orders.json
-│   ├── refunds.json
-│   └── refund-policy.md
-│
-├── docs/
-│   └── screenshots/
-│
-├── package.json
-└── README.md
-📸 Screenshots
-Landing Page
+
 
 Customer Support
 
