@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🤖 AI Customer Support Agent
 
-## Getting Started
+An AI-powered customer support application built with **Next.js, TypeScript, Tailwind CSS, LangGraph, LangChain, and Groq**.
 
-First, run the development server:
+The application simulates an e-commerce customer support system where an AI agent can understand customer requests, retrieve customer and order information, check refund history, follow a predefined refund policy, determine refund eligibility, and process eligible refund requests.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📌 Overview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Customer support often requires agents to perform several repetitive tasks before resolving a request.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+For example, when a customer asks for a refund, a support agent may need to:
 
-## Learn More
+1. Identify the customer
+2. Verify the order
+3. Check the order details
+4. Check previous refund history
+5. Review the refund policy
+6. Understand the customer's refund reason
+7. Determine whether the request is eligible
+8. Process the refund
+9. Explain the result to the customer
 
-To learn more about Next.js, take a look at the following resources:
+This project automates this workflow using an **AI agent powered by LangGraph and Groq**.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The AI is not allowed to simply approve a refund based on its own response. Instead, it uses dedicated tools and deterministic business rules to verify the request before processing it.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+# ✨ Features
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 💬 Natural Language Customer Support
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Customers can interact with the support agent using normal conversational language.
+
+Example:
+
+```text
+I want a refund
